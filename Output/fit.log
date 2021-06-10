@@ -1,0 +1,862 @@
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0193_q2343_f140.fits[42:64,40:62] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.01 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0193_q2343_f140.fits 
+
+ sersic    : (   50.38,    49.18)   25.22      2.84   [1.00]   0.72   -32.65
+             (    0.03,     0.04)    0.02      0.09   [0.00]   0.02     3.95
+ sersic    : (   56.86,    53.15)   27.20      1.94   [1.00]   0.77   -36.83
+             (    0.09,     0.09)    0.11      0.31   [0.00]   0.10    21.53
+ Chi^2 = 405.06453,  ndof = 517
+ Chi^2/nu = 0.783 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0220_q2343_f140.fits[42:62,39:59] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.02 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0220_q2343_f140.fits 
+
+ sersic    : (   52.16,    49.84)   25.35      6.03   [1.00]   0.43   -83.05
+             (    0.21,     0.10)    0.06      0.49   [0.00]   0.03     2.90
+ Chi^2 = 289.98269,  ndof = 435
+ Chi^2/nu = 0.667 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0280_q2343_f140.fits[45:58,45:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.03 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0280_q2343_f140.fits 
+
+ sersic    : (   52.53,    52.91)   26.13      2.69   [1.00]   0.64   -74.44
+             (    0.09,     0.06)    0.05      0.22   [0.00]   0.04     6.38
+ Chi^2 = 192.40572,  ndof = 190
+ Chi^2/nu = 1.013 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0308_q2343_f140.fits[44:56,44:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.04 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0308_q2343_f140.fits 
+
+ sersic    : (   50.96,    51.28)   26.22      2.06   [1.00]   0.81   -52.05
+             (    0.07,     0.05)    0.05      0.15   [0.00]   0.05    12.41
+ Chi^2 = 170.97962,  ndof = 163
+ Chi^2/nu = 1.049 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0320_q2343_f140.fits[40:59,42:61] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.05 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0320_q2343_f140.fits 
+
+ sersic    : (   50.78,    53.24)   25.37      2.70   [1.00]   0.72   -66.08
+             (    0.04,     0.05)    0.13      0.17   [0.00]   0.03     6.65
+ sersic    : (   51.15,    51.58)   25.04      4.56   [1.00]   0.59   -67.65
+             (    0.12,     0.08)    0.12      0.22   [0.00]   0.03     3.61
+ sersic    : (   45.57,    52.32)   26.31      3.44   [1.00]   0.59   -61.79
+             (    0.15,     0.07)    0.15      0.48   [0.00]   0.05     8.21
+ Chi^2 = 129.75329,  ndof = 382
+ Chi^2/nu = 0.340 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0345_q2343_f140.fits[44:61,42:59] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.06 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0345_q2343_f140.fits 
+
+ sersic    : (   52.75,    50.49)   24.81      3.30   [1.00]   0.69    65.84
+             (    0.06,     0.04)    0.03      0.12   [0.00]   0.02     3.57
+ Chi^2 = 411.81562,  ndof = 318
+ Chi^2/nu = 1.295 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0368_q2343_f140.fits[42:55,40:53] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.07 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0368_q2343_f140.fits 
+
+ sersic    : (   49.18,    46.84)   25.59      2.33   [1.00]   0.76    86.23
+             (    0.06,     0.04)    0.03      0.12   [0.00]   0.03     6.47
+ Chi^2 = 122.49520,  ndof = 190
+ Chi^2/nu = 0.645 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0405_q2343_f140.fits[44:61,43:60] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.08 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0405_q2343_f140.fits 
+
+ sersic    : (   52.89,    52.55)   26.21      3.01   [1.00]   0.66   -22.07
+             (    0.09,     0.12)    0.07      0.29   [0.00]   0.06     8.12
+ Chi^2 = 280.61895,  ndof = 318
+ Chi^2/nu = 0.882 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0577_q2343_f140.fits[38:56,36:55] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.09 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0577_q2343_f140.fits 
+
+ sersic    : (   48.22,    46.92)   24.76      9.19   [1.00]   0.30   -47.64
+             (    0.19,     0.17)    0.05      0.65   [0.00]   0.02     1.52
+ Chi^2 = 199.82825,  ndof = 374
+ Chi^2/nu = 0.534 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0585_q2343_f140.fits[45:58,43:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.10 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0585_q2343_f140.fits 
+
+ sersic    : (   51.59,    50.27)   26.31      1.69   [1.00]   0.95    45.08
+             (    0.06,     0.06)    0.05      0.12   [0.00]   0.06    58.11
+ Chi^2 = 244.03896,  ndof = 190
+ Chi^2/nu = 1.284 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0743_q2343_f140.fits[40:69,34:61] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.11 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0743_q2343_f140.fits 
+
+ sersic    : (   51.47,    50.14)   23.59      4.39   [1.00]   0.57    -0.96
+             (    0.02,     0.07)    0.12      0.16   [0.00]   0.02     2.11
+ sersic    : (   53.82,    51.43)   22.23      6.42   [1.00]   0.84    56.63
+             (    0.07,     0.05)    0.04      0.12   [0.00]   0.01     4.42
+ sersic    : (   59.42,    45.88)   23.84      7.03   [1.00]   0.40    -2.90
+             (    0.06,     0.14)    0.07      0.44   [0.00]   0.01     1.77
+ Chi^2 = 140.28522,  ndof = 822
+ Chi^2/nu = 0.171 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0770_q2343_f140.fits[44:60,41:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.12 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0770_q2343_f140.fits 
+
+ sersic    : (   52.44,    50.91)   25.55      2.90   [1.00]   0.65    62.40
+             (    0.10,     0.07)    0.06      0.26   [0.00]   0.05     7.39
+ Chi^2 = 295.38823,  ndof = 300
+ Chi^2/nu = 0.985 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0781_q2343_f140.fits[39:55,40:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.13 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0781_q2343_f140.fits 
+
+ sersic    : (   47.50,    48.34)   24.38      3.17   [1.00]   0.61   -21.63
+             (    0.02,     0.04)    0.02      0.09   [0.00]   0.01     1.91
+ Chi^2 = 208.93032,  ndof = 283
+ Chi^2/nu = 0.738 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0787_q2343_f140.fits[39:65,38:62] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.14 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0787_q2343_f140.fits 
+
+ sersic    : (   48.60,    50.44)   23.75      3.49   [1.00]   0.66   -83.28
+             (    0.02,     0.01)    0.01      0.03   [0.00]   0.01     1.05
+ sersic    : (   48.33,    46.52)   25.83     20.31   [1.00]  *0.09*   36.55
+             (    1.34,     1.82)    0.31      9.13   [0.00]  *0.04*    1.86
+ sersic    : (   55.79,    51.60)   25.34      4.06   [1.00]   0.60     0.21
+             (    0.06,     0.11)    0.04      0.23   [0.00]   0.03     4.21
+ Chi^2 = 368.03009,  ndof = 657
+ Chi^2/nu = 0.560 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0791_q2343_f140.fits[40:55,42:57] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.15 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0791_q2343_f140.fits 
+
+ sersic    : (   48.01,    49.68)   24.86      2.73   [1.00]   0.78    22.32
+             (    0.03,     0.03)    0.02      0.07   [0.00]   0.02     4.06
+ Chi^2 = 163.52299,  ndof = 250
+ Chi^2/nu = 0.654 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0829_q2343_f140.fits[40:56,39:55] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.16 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0829_q2343_f140.fits 
+
+ sersic    : (   48.46,    46.57)   26.46      2.46   [1.00]   0.56    41.28
+             (    0.09,     0.11)    0.09      0.30   [0.00]   0.06     7.65
+ Chi^2 = 272.55303,  ndof = 283
+ Chi^2/nu = 0.963 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB0845_q2343_f140.fits[43:60,41:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.17 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB0845_q2343_f140.fits 
+
+ sersic    : (   53.40,    48.34)   24.38      2.05   [1.00]   0.89    23.12
+             (    0.01,     0.01)    0.03      0.03   [0.00]   0.01     7.11
+ sersic    : (   49.42,    49.36)   24.65      3.98   [1.00]   0.88    81.60
+             (    0.13,     0.07)    0.06      0.25   [0.00]   0.05    16.71
+ sersic    : (   51.54,    50.69)   23.95      1.91   [1.00]   0.91     9.74
+             (    0.01,     0.01)    0.03      0.02   [0.00]   0.01     6.26
+ Chi^2 = 58.45779,  ndof = 306
+ Chi^2/nu = 0.191 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1041_q2343_f140.fits[30:66,39:61] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.18 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1041_q2343_f140.fits 
+
+ sersic    : (   47.23,    46.36)   25.35      8.71   [1.00]   0.41    81.37
+             (    0.29,     0.10)    0.09      0.84   [0.00]   0.03     3.61
+ sersic    : (   40.75,    52.30)   24.58      7.46   [1.00]   0.48    37.59
+             (    0.06,     0.08)    0.06      0.35   [0.00]   0.01     1.88
+ sersic    : (   58.81,    52.77)   25.71      2.82   [1.00]   0.86   -88.73
+             (    0.07,     0.06)    0.04      0.13   [0.00]   0.04    12.79
+ Chi^2 = 452.55928,  ndof = 833
+ Chi^2/nu = 0.543 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1154_q2343_f140.fits[41:57,39:55] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.19 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1154_q2343_f140.fits 
+
+ sersic    : (   48.20,    47.40)   26.59      2.84   [1.00]   0.54   -69.72
+             (    0.17,     0.09)    0.09      0.37   [0.00]   0.06     7.39
+ Chi^2 = 264.87695,  ndof = 283
+ Chi^2/nu = 0.936 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1174_q2343_f140.fits[41:61,40:67] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.20 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1174_q2343_f140.fits 
+
+ sersic    : (   50.71,    49.83)   25.44      4.67   [1.00]   0.47    14.87
+             (    0.06,     0.13)    0.04      0.29   [0.00]   0.02     2.70
+ sersic    : (   53.92,    59.50)   25.80      2.77   [1.00]   0.90     0.93
+             (    0.09,     0.09)    0.05      0.19   [0.00]   0.06    23.88
+ Chi^2 = 404.62156,  ndof = 576
+ Chi^2/nu = 0.702 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1264_q2343_f140.fits[44:57,43:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.21 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1264_q2343_f140.fits 
+
+ sersic    : (   51.65,    49.92)   26.27      2.07   [1.00]   0.90    50.80
+             (    0.06,     0.06)    0.05      0.14   [0.00]   0.05    23.53
+ Chi^2 = 168.10884,  ndof = 190
+ Chi^2/nu = 0.885 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1277_q2343_f140.fits[42:58,40:57] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.22 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1277_q2343_f140.fits 
+
+ sersic    : (   50.70,    47.99)   24.22      2.81   [1.00]   0.69   -74.52
+             (    0.04,     0.03)    0.14      0.11   [0.00]   0.03     3.45
+ sersic    : (   50.86,    49.34)   24.11      2.55   [1.00]   0.77    -7.47
+             (    0.05,     0.02)    0.13      0.07   [0.00]   0.04     4.84
+ sersic    : (   49.55,    48.88)   24.26      2.74   [1.00]   0.84    28.10
+             (    0.06,     0.06)    0.16      0.08   [0.00]   0.03    11.59
+ Chi^2 = 58.29765,  ndof = 288
+ Chi^2/nu = 0.202 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1361_q2343_f140.fits[40:58,41:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.23 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1361_q2343_f140.fits 
+
+ sersic    : (   49.20,    50.06)   27.08      2.62   [1.00]   0.57   -61.19
+             (    0.14,     0.09)    0.09      0.32   [0.00]   0.06     7.76
+ Chi^2 = 340.67214,  ndof = 336
+ Chi^2/nu = 1.014 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1386_q2343_f140.fits[40:59,42:61] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.24 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1386_q2343_f140.fits 
+
+ sersic    : (   49.20,    50.60)   27.30      2.27   [1.00]   0.58   -26.81
+             (    0.10,     0.16)    0.12      0.40   [0.00]   0.09    11.56
+ Chi^2 = 476.63724,  ndof = 394
+ Chi^2/nu = 1.210 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1396_q2343_f140.fits[35:55,40:60] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.25 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1396_q2343_f140.fits 
+
+ sersic    : (   47.18,    50.48)   24.60      4.07   [1.00]   0.58   -68.75
+             (    0.03,     0.03)    0.04      0.12   [0.00]   0.01     2.02
+ sersic    : (   47.16,    52.38)   26.04      4.33   [1.00]   0.45   -83.65
+             (    0.20,     0.08)    0.19      0.62   [0.00]   0.05     4.52
+ sersic    : (   41.88,    50.15)   26.89      2.28   [1.00]   0.91    56.89
+             (    0.12,     0.12)    0.22      0.39   [0.00]   0.09    66.35
+ Chi^2 = 198.22723,  ndof = 423
+ Chi^2/nu = 0.469 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1416_q2343_f140.fits[40:58,40:59] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.26 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1416_q2343_f140.fits 
+
+ sersic    : (   49.72,    49.43)   26.54      4.86   [1.00]   0.33   -33.57
+             (    0.15,     0.22)    0.09      0.56   [0.00]   0.03     3.18
+ Chi^2 = 412.43781,  ndof = 374
+ Chi^2/nu = 1.103 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1421_q2343_f140.fits[40:58,42:60] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.27 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1421_q2343_f140.fits 
+
+ sersic    : (   46.58,    54.34)   24.42     19.04   [1.00]   0.26    43.54
+             (    0.75,     0.80)    0.22      4.63   [0.00]   0.05     3.72
+ Chi^2 = 416.50416,  ndof = 355
+ Chi^2/nu = 1.173 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1494_q2343_f140.fits[38:67,39:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.28 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1494_q2343_f140.fits 
+
+ sersic    : (   47.66,    49.58)   24.14      3.56   [1.00]   0.71   -64.66
+             (    0.03,     0.02)    0.01      0.07   [0.00]   0.01     1.94
+ sersic    : (   59.91,    47.68)   26.33      2.47   [1.00]   0.81   -43.88
+             (    0.10,     0.08)    0.07      0.26   [0.00]   0.08    18.25
+ Chi^2 = 475.39709,  ndof = 588
+ Chi^2/nu = 0.808 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1501_q2343_f140.fits[43:55,45:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.29 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1501_q2343_f140.fits 
+
+ sersic    : (   49.62,    52.16)   25.96      2.00   [1.00]   0.99    88.15
+             (    0.05,     0.06)    0.04      0.12   [0.00]   0.05   161.23
+ Chi^2 = 125.14700,  ndof = 176
+ Chi^2/nu = 0.711 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1512_q2343_f140.fits[40:58,39:57] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.30 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1512_q2343_f140.fits 
+
+ sersic    : (   49.92,    48.63)   24.95      5.38   [1.00]   0.49   -80.48
+             (    0.11,     0.05)    0.03      0.25   [0.00]   0.02     2.07
+ Chi^2 = 233.37861,  ndof = 355
+ Chi^2/nu = 0.657 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1518_q2343_f140.fits[42:55,43:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.31 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1518_q2343_f140.fits 
+
+ sersic    : (   48.70,    50.18)   26.49      1.87   [1.00]   0.97    21.72
+             (    0.09,     0.09)    0.07      0.18   [0.00]   0.09   112.22
+ Chi^2 = 191.05568,  ndof = 190
+ Chi^2/nu = 1.006 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1524_q2343_f140.fits[40:59,41:60] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.32 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1524_q2343_f140.fits 
+
+ sersic    : (   49.94,    50.20)   26.23      4.86   [1.00]   0.67    85.31
+             (    0.28,     0.19)    0.09      0.61   [0.00]   0.07    10.81
+ Chi^2 = 358.70578,  ndof = 394
+ Chi^2/nu = 0.910 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1579_q2343_f140.fits[38:65,34:62] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.33 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1579_q2343_f140.fits 
+
+ sersic    : (   50.71,    47.16)   24.32      3.63   [1.00]   0.65   -86.23
+             (    0.03,     0.02)    0.01      0.06   [0.00]   0.01     1.52
+ sersic    : (   54.38,    51.95)   26.15      3.17   [1.00]   0.62    67.50
+             (    0.11,     0.06)    0.07      0.26   [0.00]   0.04     6.11
+ Chi^2 = 928.12403,  ndof = 800
+ Chi^2/nu = 1.160 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1692_q2343_f140.fits[43:55,38:50] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.34 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1692_q2343_f140.fits 
+
+ sersic    : (   49.51,    47.85)   27.62      4.29   [1.00]   0.22   -12.30
+             (    0.16,     0.71)    0.34      1.87   [0.00]   0.07     7.37
+ Chi^2 = 217.80415,  ndof = 163
+ Chi^2/nu = 1.336 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1783_q2343_f140.fits[42:55,44:57] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.35 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1783_q2343_f140.fits 
+
+ sersic    : (   48.87,    51.45)   24.89      2.39   [1.00]   0.80    76.62
+             (    0.03,     0.02)    0.02      0.06   [0.00]   0.02     4.08
+ Chi^2 = 166.88777,  ndof = 190
+ Chi^2/nu = 0.878 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1821_q2343_f140.fits[44:57,43:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.36 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1821_q2343_f140.fits 
+
+ sersic    : (   51.37,    50.14)   25.83      2.31   [1.00]   0.75    75.66
+             (    0.05,     0.04)    0.03      0.12   [0.00]   0.03     6.27
+ Chi^2 = 178.14234,  ndof = 190
+ Chi^2/nu = 0.938 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1828_q2343_f140.fits[40:58,40:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.37 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1828_q2343_f140.fits 
+
+ sersic    : (   49.91,    49.60)   25.72      3.47   [1.00]   0.74   -70.04
+             (    0.11,     0.08)    0.05      0.23   [0.00]   0.04     7.96
+ Chi^2 = 290.08815,  ndof = 355
+ Chi^2/nu = 0.817 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1829_q2343_f140.fits[37:61,40:64] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.38 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1829_q2343_f140.fits 
+
+ sersic    : (   47.92,    49.78)   25.53      2.70   [1.00]   0.85    75.50
+             (    0.06,     0.05)    0.04      0.12   [0.00]   0.03    11.01
+ sersic    : (   51.30,    54.28)   25.64      5.48   [1.00]   0.39    34.00
+             (    0.10,     0.16)    0.05      0.40   [0.00]   0.02     2.45
+ Chi^2 = 466.16244,  ndof = 613
+ Chi^2/nu = 0.760 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1860_q2343_f140.fits[38:56,36:54] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.39 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1860_q2343_f140.fits 
+
+ sersic    : (   47.65,    45.67)   22.54      3.15   [1.00]   0.82   -34.16
+             (    0.02,     0.01)    0.04      0.04   [0.00]   0.01     1.80
+ sersic    : (   49.18,    46.41)   23.56      3.30   [1.00]   0.77   -28.81
+             (    0.04,     0.05)    0.09      0.09   [0.00]   0.02     5.17
+ sersic    : (   47.40,    47.25)   27.26      1.12   [1.00]  *0.05*  -21.78
+             (    0.11,     0.09)    0.19      0.35   [0.00]  *0.06*    3.76
+ Chi^2 = 43.66032,  ndof = 343
+ Chi^2/nu = 0.127 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1922_q2343_f140.fits[41:59,38:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.40 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1922_q2343_f140.fits 
+
+ sersic    : (   50.95,    48.77)   26.61      2.63   [1.00]   0.75   -67.46
+             (    0.16,     0.11)    0.08      0.34   [0.00]   0.08    16.32
+ Chi^2 = 326.40081,  ndof = 355
+ Chi^2/nu = 0.919 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1952_q2343_f140.fits[43:59,41:57] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.41 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1952_q2343_f140.fits 
+
+ sersic    : (   51.48,    49.22)   25.54      4.11   [1.00]   0.53   -71.64
+             (    0.12,     0.07)    0.05      0.27   [0.00]   0.03     3.48
+ Chi^2 = 230.19840,  ndof = 283
+ Chi^2/nu = 0.813 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB1973_q2343_f140.fits[44:57,43:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.42 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB1973_q2343_f140.fits 
+
+ sersic    : (   50.74,    50.11)   26.25      5.03   [1.00]   0.68    43.10
+             (    0.21,     0.23)    0.11      0.75   [0.00]   0.08    13.10
+ Chi^2 = 171.75205,  ndof = 190
+ Chi^2/nu = 0.904 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2089_q2343_f140.fits[43:55,43:55] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.43 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2089_q2343_f140.fits 
+
+ sersic    : (   49.55,    50.35)   27.93      2.72   [1.00]   0.32   -34.61
+             (    0.18,     0.28)    0.18      0.71   [0.00]   0.07     7.16
+ Chi^2 = 169.09079,  ndof = 163
+ Chi^2/nu = 1.037 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2174_q2343_f140.fits[41:59,42:60] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.44 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2174_q2343_f140.fits 
+
+ sersic    : (   51.09,    51.02)   26.46      4.40   [1.00]   0.39    49.69
+             (    0.18,     0.16)    0.09      0.49   [0.00]   0.03     3.78
+ Chi^2 = 326.75900,  ndof = 355
+ Chi^2/nu = 0.920 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2179_q2343_f140.fits[36:55,38:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.45 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2179_q2343_f140.fits 
+
+ sersic    : (   45.91,    46.45)   24.12      3.59   [1.00]   0.61    67.87
+             (    0.06,     0.04)    0.12      0.17   [0.00]   0.03     2.71
+ sersic    : (   46.37,    48.23)   22.86      3.55   [1.00]   0.76    61.99
+             (    0.01,     0.02)    0.04      0.05   [0.00]   0.01     1.44
+ sersic    : ( *113.79*,  *69.72*)  15.48     13.91   [1.00]   0.43   -77.44
+             ( *435.02*, *133.89*)  56.24      0.90   [0.00]   1.35    36.92
+ Chi^2 = 30.15803,  ndof = 362
+ Chi^2/nu = 0.083 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2211_q2343_f140.fits[44:57,43:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.46 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2211_q2343_f140.fits 
+
+ sersic    : (   50.86,    49.70)   26.26      2.16   [1.00]   0.73    37.88
+             (    0.04,     0.04)    0.04      0.12   [0.00]   0.04     6.19
+ Chi^2 = 144.10007,  ndof = 190
+ Chi^2/nu = 0.758 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2571_q2343_f140.fits[42:60,42:60] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.47 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2571_q2343_f140.fits 
+
+ sersic    : (   50.69,    53.55)   26.96      5.72   [1.00]   0.26    18.72
+             (    0.18,     0.54)    0.16      1.33   [0.00]   0.05     4.49
+ Chi^2 = 382.57717,  ndof = 355
+ Chi^2/nu = 1.078 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2675_q2343_f140.fits[38:55,37:55] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.48 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2675_q2343_f140.fits 
+
+ sersic    : (   46.77,    46.69)   24.58      3.16   [1.00]   0.82   -23.96
+             (    0.04,     0.04)    0.02      0.10   [0.00]   0.02     5.71
+ Chi^2 = 353.77802,  ndof = 336
+ Chi^2/nu = 1.053 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2807_q2343_f140.fits[37:65,38:64] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.49 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2807_q2343_f140.fits 
+
+ sersic    : (   44.67,    44.12)   24.58      2.58   [1.00]   0.86    28.07
+             (    0.03,     0.03)    0.03      0.07   [0.00]   0.02     7.64
+ sersic    : (   48.46,    51.24)   24.31      5.15   [1.00]   0.49   -32.15
+             (    0.04,     0.05)    0.05      0.29   [0.00]   0.02     1.56
+ sersic    : (   53.80,    59.35)   24.35     12.08   [1.00]   0.27    21.55
+             (    0.14,     0.37)    0.06      1.13   [0.00]   0.02     1.35
+ Chi^2 = 462.12593,  ndof = 765
+ Chi^2/nu = 0.604 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2816_q2343_f140.fits[41:59,43:61] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.50 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2816_q2343_f140.fits 
+
+ sersic    : (   50.19,    51.52)   28.25      1.64   [1.00]   0.60    59.98
+             (    0.27,     0.16)    0.24      0.56   [0.00]   0.20    25.79
+ Chi^2 = 375.99244,  ndof = 355
+ Chi^2/nu = 1.059 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2821_q2343_f140.fits[44:58,44:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.51 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2821_q2343_f140.fits 
+
+ sersic    : (   50.40,    51.53)   26.49      2.26   [1.00]   0.67    -6.37
+             (    0.07,     0.10)    0.06      0.21   [0.00]   0.06     8.16
+ Chi^2 = 182.32196,  ndof = 219
+ Chi^2/nu = 0.833 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2843_q2343_f140.fits[41:58,42:68] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.52 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2843_q2343_f140.fits 
+
+ sersic    : (   48.30,    47.67)   26.04      2.61   [1.00]   0.73    54.78
+             (    0.10,     0.07)    0.06      0.25   [0.00]   0.06    10.70
+ sersic    : (   50.36,    59.55)   23.36      3.62   [1.00]   0.72   -51.04
+             (    0.01,     0.01)    0.01      0.04   [0.00]   0.01     1.18
+ Chi^2 = 270.78949,  ndof = 474
+ Chi^2/nu = 0.571 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2910_q2343_f140.fits[41:65,43:68] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.53 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2910_q2343_f140.fits 
+
+ sersic    : (   48.98,    48.58)   25.47      5.05   [1.00]   0.84   -42.57
+             (    0.17,     0.16)    0.09      0.59   [0.00]   0.08    25.03
+ sersic    : (   50.93,    58.76)   25.39      8.33   [1.00]   0.50    18.28
+             (    0.37,     0.73)    0.29      1.53   [0.00]   0.08    10.36
+ sersic    : (   53.76,    57.40)   23.89      5.95   [1.00]   0.66    61.79
+             (    0.08,     0.04)    0.08      0.15   [0.00]   0.01     2.90
+ Chi^2 = 140.28952,  ndof = 632
+ Chi^2/nu = 0.222 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB2929_q2343_f140.fits[39:63,40:64] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.54 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB2929_q2343_f140.fits 
+
+ sersic    : (   51.60,    53.60)   25.55      5.53   [1.00]   0.60    43.16
+             (    0.12,     0.13)    0.05      0.39   [0.00]   0.04     4.79
+ Chi^2 = 508.16011,  ndof = 619
+ Chi^2/nu = 0.821 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3024_q2343_f140.fits[43:61,40:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.55 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3024_q2343_f140.fits 
+
+ sersic    : (   53.39,    49.49)   26.71      2.45   [1.00]   0.75   -49.14
+             (    0.12,     0.09)    0.09      0.33   [0.00]   0.09    16.99
+ Chi^2 = 449.23364,  ndof = 355
+ Chi^2/nu = 1.265 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3061_q2343_f140.fits[44:60,44:59] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.56 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3061_q2343_f140.fits 
+
+ sersic    : (   52.43,    51.71)   26.50      3.10   [1.00]   0.48    88.95
+             (    0.14,     0.07)    0.06      0.28   [0.00]   0.04     4.19
+ Chi^2 = 317.94185,  ndof = 266
+ Chi^2/nu = 1.195 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3122_q2343_f140.fits[44:57,41:54] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.57 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3122_q2343_f140.fits 
+
+ sersic    : (   50.95,    48.05)   26.27      1.82   [1.00]   0.84    43.86
+             (    0.04,     0.04)    0.04      0.09   [0.00]   0.04    10.46
+ Chi^2 = 210.64547,  ndof = 190
+ Chi^2/nu = 1.109 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3148_q2343_f140.fits[44:61,41:58] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.58 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3148_q2343_f140.fits 
+
+ sersic    : (   52.75,    49.68)   25.49      3.54   [1.00]   0.53    69.43
+             (    0.08,     0.04)    0.04      0.17   [0.00]   0.02     2.60
+ Chi^2 = 303.80354,  ndof = 318
+ Chi^2/nu = 0.955 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3157_q2343_f140.fits[43:56,42:55] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.59 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3157_q2343_f140.fits 
+
+ sersic    : (   49.61,    49.38)   24.20      2.23   [1.00]   0.90    70.74
+             (    0.01,     0.01)    0.01      0.03   [0.00]   0.01     5.33
+ Chi^2 = 66.95410,  ndof = 190
+ Chi^2/nu = 0.352 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3170_q2343_f140.fits[40:58,44:61] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.60 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3170_q2343_f140.fits 
+
+ sersic    : (   50.25,    52.16)   27.30      4.23   [1.00]   0.22   -88.25
+             (    0.43,     0.13)    0.15      0.91   [0.00]   0.04     4.13
+ Chi^2 = 338.51443,  ndof = 336
+ Chi^2/nu = 1.007 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3231_q2343_f140.fits[41:57,44:60] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.61 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3231_q2343_f140.fits 
+
+ sersic    : (   50.12,    52.38)   25.96      3.03   [1.00]   0.65    47.31
+             (    0.06,     0.05)    0.04      0.16   [0.00]   0.03     4.31
+ Chi^2 = 345.53667,  ndof = 283
+ Chi^2/nu = 1.221 
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Input image     : /home/conor/Project/NB3252_q2343_f140.fits[43:56,43:56] 
+Init. par. file : /home/conor/Galfit/galfit_input.txt 
+Restart file    : galfit.62 
+Output image    : /home/conor/Galfit/Fits/imgblock_NB3252_q2343_f140.fits 
+
+ sersic    : (   50.38,    50.04)   25.90      2.40   [1.00]   0.73    24.63
+             (    0.03,     0.05)    0.03      0.10   [0.00]   0.03     5.03
+ Chi^2 = 145.67365,  ndof = 190
+ Chi^2/nu = 0.767 
+
+-----------------------------------------------------------------------------
