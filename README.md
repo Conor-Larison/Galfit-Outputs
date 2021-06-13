@@ -1,1 +1,1 @@
-# Galfit-Outputs
+This repository shows what sort of outputs to expect from Galfit, and some of the results that I got from my exact fitiing procedure. Fits and Fits2 show the image blocks that are outputs from Galfit. The fittl
